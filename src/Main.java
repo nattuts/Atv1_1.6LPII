@@ -32,7 +32,6 @@ public class Main {
         System.out.println("Saldo da conta original: " + conta.balance());
         System.out.println("Saldo da outra conta: " + anotherAccount.balance());
 
-
         scanner.close();
     }
 }
